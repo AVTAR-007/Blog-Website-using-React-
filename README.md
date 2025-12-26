@@ -1,6 +1,8 @@
 # Blog-Website-using-React-
 ## OUTPUT
-<img width="1915" height="807" alt="Screenshot 2025-12-24 100939" src="https://github.com/user-attachments/assets/6295f6cf-50fa-41bf-af46-b3ecf03e09fe" />
+<img width="1531" height="715" alt="Screenshot 2025-12-26 135353" src="https://github.com/user-attachments/assets/8346ac01-9386-439e-a27b-a7599dc907b2" />
+
+
 
 
 # Blog-Website-using-React
